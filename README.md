@@ -1,3 +1,5 @@
 # valkyrie
 valkyrie rice project
-A collection of my personal configuration files, scripts, assets, etc.
+and dot file repository
+so I don't lose them
+again
