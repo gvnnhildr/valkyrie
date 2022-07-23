@@ -1,0 +1,95 @@
+awesome-terminal-fonts	fonts/icons for powerlines
+bspwm               	Tiling window manager based on binary space partitioning
+cmake               	A cross-platform open-source make system
+cowsay              	Configurable talking cow (and a few other creatures)
+deadbeef            	Modular GTK audio player for GNU/Linux
+discord             	All-in-one voice and text chat for gamers that's free and secure.
+dmenu               	Generic menu for X
+dracula-cursors-git 	Dracula theme cursors
+dracula-gtk-theme   	Dark theme for GTK
+dracula-icons-git   	Dark Icons Theme for Linux Desktops
+emacs               	The extensible, customizable, self-documenting real-time display editor
+expac               	alpm data (pacman database) extraction utility
+firefox             	Standalone web browser from mozilla.org
+gimp                	GNU Image Manipulation Program
+gparted             	A Partition Magic clone, frontend to GNU Parted
+grub                	GNU GRand Unified Bootloader (2)
+htop                	Interactive process viewer
+inetutils           	A collection of common network programs
+insync              	An unofficial Google Drive and OneDrive client that runs on Linux, with support for various desktops
+intel-ucode         	Microcode update files for Intel CPUs
+keepass             	Easy-to-use password manager for Windows, Linux, Mac OS X and mobile devices
+kitty               	A modern, hackable, featureful, OpenGL-based terminal emulator
+krita               	Edit and paint images
+libreoffice-still   	LibreOffice maintenance branch
+lightdm-mini-greeter	A Minimal, Configurable, Single-User GTK3 LightDM Greeter
+lxappearance        	Feature-rich GTK+ theme switcher of the LXDE Desktop
+minecraft-launcher  	Official Minecraft Launcher
+mplayer             	Media player for Linux
+nano                	Pico editor clone with enhancements
+nautilus            	Default file manager for GNOME
+ncdu                	Disk usage analyzer with an ncurses interface
+neofetch            	A CLI system information tool written in BASH that supports displaying images.
+nerd-fonts-complete 	Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts.
+nomacs              	A Qt image viewer
+obs-studio          	Free, open source software for live streaming and recording
+pacgraph            	Draws a graph of installed packages to PNG/SVG/GUI/console. Good for finding bloat.
+pacman-contrib      	Contributed scripts and tools for pacman systems
+pandoc              	Conversion between markup formats
+pavucontrol         	PulseAudio Volume Control
+pidgin              	Multi-protocol instant messaging client
+polybar             	A fast and easy-to-use status bar
+protonvpn           	Official ProtonVPN metapackage that installs protonvpn-gui and protonvpn-cli, maintained by the ProtonVPN team.
+python2-wxpython3   	Classic wxWidgets GUI toolkit for Python
+rofi                	A window switcher, application launcher and dmenu replacement
+rxvt-unicode        	Unicode enabled rxvt-clone terminal emulator (urxvt)
+scrot               	Simple command-line screenshot utility for X
+snapd               	Service and tools for management of snap packages.
+texlive-science     	TeX Live - Typesetting for mathematics, natural and computer sciences
+tldr                	Command line client for tldr, a collection of simplified and community-driven man pages.
+tor-browser         	Tor Browser Bundle: anonymous browsing using Firefox and Tor (international PKGBUILD)
+transset-df         	A patched version of X.Org's transset with added functionality.
+unzip               	For extracting and viewing files in .zip archives
+vi                  	The original ex/vi text editor
+vimb                	The vim like browser
+vlc                 	Multi-platform MPEG, VCD/DVD, and DivX player
+wttr                	a simple script that helps you check weather condition using site : http://wttr.in
+xf86-video-ati      	X.org ati video driver
+xf86-video-vesa     	X.org vesa video driver
+xkeycaps            	A graphical front-end to xmodmap
+xorg-bdftopcf       	Convert X font from Bitmap Distribution Format to Portable Compiled Format
+xorg-docs           	X.org documentations
+xorg-fonts-100dpi   	X.org 100dpi fonts
+xorg-fonts-75dpi    	X.org 75dpi fonts
+xorg-font-util      	X.Org font utilities
+xorg-mkfontscale    	Create an index of scalable font files for X
+xorg-server         	Xorg X server
+xorg-server-devel   	Development files for the X.Org X server
+xorg-server-xnest   	A nested X server that runs as an X application
+xorg-server-xvfb    	Virtual framebuffer X server
+xorg-sessreg        	Register X sessions in system utmp/utmpx databases
+xorg-smproxy        	Allows X applications that do not support X11R6 session management to participate in an X11R6 session
+xorg-x11perf        	Simple X server performance benchmarker
+xorg-xbacklight     	RandR-based backlight control application
+xorg-xcmsdb         	Device Color Characterization utility for X Color Management System
+xorg-xcursorgen     	Create an X cursor file from PNG images
+xorg-xdriinfo       	Query configuration information of DRI drivers
+xorg-xev            	Print contents of X events
+xorg-xgamma         	Alter a monitor's gamma correction
+xorg-xinit          	X.Org initialisation program
+xorg-xinput         	Small commandline tool to configure devices
+xorg-xkbevd         	XKB event daemon
+xorg-xkbutils       	XKB utility demos
+xorg-xkill          	Kill a client by its X resource
+xorg-xlsatoms       	List interned atoms defined on server
+xorg-xlsclients     	List client applications running on a display
+xorg-xpr            	Print an X window dump from xwd
+xorg-xrefresh       	Refresh all or part of an X screen
+xorg-xsetroot       	Classic X utility to set your root window background to a given pattern or color
+xorg-xvinfo         	Prints out the capabilities of any video adaptors associated with the display that are accessible through the X-Video extension
+xorg-xwd            	X Window System image dumping utility
+xorg-xwud           	X Window System image undumping utility
+xscreensaver-arch-logo	Screen saver and locker for the X Window System with Arch Linux branding
+yay                 	Yet another yogurt. Pacman wrapper and AUR helper written in go.
+zip                 	Compressor/archiver for creating and modifying zipfiles
+zoom                	Video Conferencing and Web Conferencing Service
